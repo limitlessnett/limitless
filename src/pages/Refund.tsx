@@ -19,7 +19,7 @@ const Refund = () => {
               <div>
                 <h2 className="text-3xl font-bold text-forest-green mb-4">30-Day Money-Back Guarantee</h2>
                 <p className="text-muted-foreground leading-relaxed">
-                  We stand behind the quality of our service. If you're not completely satisfied with FastFiber within the first 30 days of service, we'll refund your monthly service fee—no questions asked.
+                  We stand behind the quality of our service. If you're not completely satisfied with Hyper Speed Net within the first 30 days of service, we'll refund your monthly service fee—no questions asked.
                 </p>
               </div>
 
@@ -56,7 +56,7 @@ const Refund = () => {
                   To request a refund under our 30-day guarantee:
                 </p>
                 <ol className="list-decimal pl-6 space-y-2 text-muted-foreground">
-                  <li>Contact our customer service at 1-800-FASTFIBER or support@fastfiber.com</li>
+                  <li>Contact our customer service at (888) 809-0202 or support@hyperspeednet.com</li>
                   <li>Provide your account number and reason for cancellation</li>
                   <li>Return all equipment within 14 days of cancellation</li>
                   <li>Refund will be processed to your original payment method within 7-10 business days</li>
@@ -87,14 +87,14 @@ const Refund = () => {
               <div>
                 <h2 className="text-3xl font-bold text-forest-green mb-4">Equipment Return</h2>
                 <p className="text-muted-foreground leading-relaxed">
-                  All FastFiber-provided equipment must be returned within 14 days of service cancellation. Failure to return equipment will result in charges to your account equal to the replacement value of the equipment.
+                  All Hyper Speed Net-provided equipment must be returned within 14 days of service cancellation. Failure to return equipment will result in charges to your account equal to the replacement value of the equipment.
                 </p>
               </div>
 
               <div>
                 <h2 className="text-3xl font-bold text-forest-green mb-4">Questions?</h2>
                 <p className="text-muted-foreground leading-relaxed">
-                  If you have questions about our refund policy, please contact our customer service team at support@fastfiber.com or call 1-800-FASTFIBER.
+                  If you have questions about our refund policy, please contact our customer service team at support@hyperspeednet.com or call (888) 809-0202.
                 </p>
               </div>
             </div>

@@ -37,18 +37,17 @@ const Home = () => {
               </div>
 
               {/* Main headline */}
-              <div className="space-y-4">
-                <h1 className="text-5xl md:text-6xl lg:text-7xl font-black text-white leading-[1.1] animate-slide-up">
-                  Experience the
-                  <span className="block mt-2 bg-gradient-to-r from-lime-yellow via-pale-yellow to-lime-yellow bg-clip-text text-transparent animate-gradient">
-                    Future of Internet
-                  </span>
-                </h1>
-              </div>
+		      <div className="space-y-4">
+		        <h1 className="text-5xl md:text-6xl lg:text-7xl font-black text-white leading-[1.1] animate-slide-up">
+		          <span className="block bg-gradient-to-r from-lime-yellow via-pale-yellow to-lime-yellow bg-clip-text text-transparent animate-gradient">
+		            Hyper Speed. Zero Limits.
+		          </span>
+		        </h1>
+		      </div>
 
               {/* Description */}
               <p className="text-lg md:text-xl text-pale-yellow/80 leading-relaxed max-w-xl animate-fade-in" style={{animationDelay: '0.2s'}}>
-                Ultra-fast fiber internet designed for modern living. Stream, work, game, and connect with unlimited possibilities at speeds up to 1Gbps.
+                Lightning-fast fiber internet engineered for peak performance. Stream in 4K, dominate online gaming, power your home office, and connect every device with blazing speeds up to 1Gbps.
               </p>
 
               {/* Feature highlights */}
@@ -187,12 +186,12 @@ const Home = () => {
       <section className="bg-dark-green py-24 px-6">
         <div className="container mx-auto text-center">
           <h2 className="text-4xl md:text-5xl font-bold text-pale-yellow mb-6 tracking-tight">
-            Clear the path from slow internet
+            Say goodbye to slow internet
             <br />
-            <span className="text-lime-yellow">to ultra-fast connectivity</span>
+            <span className="text-lime-yellow">and hello to hyper-speed connectivity</span>
           </h2>
           <p className="text-xl text-pale-yellow/70 max-w-3xl mx-auto leading-relaxed">
-            We&apos;ve built a fiber network that delivers consistent, lightning-fast speeds. No more buffering, no more waiting - just pure, reliable performance for everything you do online.
+            Our state-of-the-art fiber network delivers consistently blazing-fast speeds. Zero buffering, instant downloads, seamless streaming - just pure, uninterrupted performance for everything you do online.
           </p>
         </div>
       </section>
@@ -237,10 +236,10 @@ const Home = () => {
               {/* Feature card overlay */}
               <div className="mt-8 bg-forest-green rounded-3xl p-8 shadow-xl animate-slide-up" style={{animationDelay: '0.2s'}}>
                 <h3 className="text-3xl font-bold text-lime-yellow mb-4">
-                  Perfect for Home & Office
+                  Engineered for Home & Business
                 </h3>
                 <p className="text-pale-yellow/80 leading-relaxed">
-                  Stream, work, and play without limits. Our fiber network delivers consistent speeds for all your devices, from smart TVs to home security systems.
+                  Stream, work, and play without compromise. Our advanced fiber network delivers rock-solid speeds across all your devices - from 4K smart TVs to sophisticated home security systems.
                 </p>
               </div>
             </div>
@@ -292,12 +291,12 @@ const Home = () => {
       <section className="bg-forest-green py-24 px-6">
         <div className="container mx-auto text-center">
           <h2 className="text-4xl md:text-5xl font-bold text-pale-yellow mb-6 tracking-tight">
-            The connectivity layer for
+            The foundation of
             <br />
-            <span className="text-lime-yellow">your digital lifestyle</span>
+            <span className="text-lime-yellow">your connected world</span>
           </h2>
           <p className="text-xl text-pale-yellow/70 max-w-3xl mx-auto mb-12 leading-relaxed">
-            We&apos;re the fiber-to-the-home network connecting modern life. From smart home devices to 4K streaming, gaming, and remote work - our infrastructure powers it all with unmatched speed and stability.
+            We deliver enterprise-grade fiber-to-the-home connectivity that powers modern life. From smart home ecosystems to crystal-clear 4K streaming, competitive gaming, and seamless remote work - our next-generation infrastructure supports it all with exceptional speed and rock-solid reliability.
           </p>
           <a href="tel:888-809-0202">
             <Button className="bg-lime-yellow text-forest-green hover:bg-pale-yellow font-bold text-lg px-8 py-6">
@@ -322,7 +321,7 @@ const Home = () => {
               How It <span className="bg-gradient-to-r from-lime-yellow to-pale-yellow bg-clip-text text-transparent">Works</span>
             </h2>
             <p className="text-xl text-pale-yellow/70 max-w-2xl mx-auto">
-              Our three-tier fiber network brings ultra-fast internet directly to your home
+              Our advanced three-tier fiber network delivers hyper-fast internet directly to your doorstep
             </p>
           </div>
 
@@ -346,7 +345,7 @@ const Home = () => {
                       </div>
                     </div>
                     <p className="text-white/80 leading-relaxed text-lg">
-                      Our core infrastructure backbone delivering data at the speed of light through fiber-optic cables.
+                      Our cutting-edge infrastructure backbone transmitting data at light speed through premium fiber-optic cables.
                     </p>
                   </div>
                   <div className="bg-white/5 backdrop-blur-sm rounded-3xl p-8 border border-white/10">
@@ -380,7 +379,7 @@ const Home = () => {
                       </div>
                     </div>
                     <p className="text-white/80 leading-relaxed text-lg">
-                      Strategic distribution points in your neighborhood ensuring minimal latency and maximum speed.
+                      Strategically positioned distribution hubs in your neighborhood guaranteeing ultra-low latency and peak performance.
                     </p>
                   </div>
                 </div>
@@ -400,7 +399,7 @@ const Home = () => {
                       </div>
                     </div>
                     <p className="text-white/80 leading-relaxed text-lg">
-                      Wi-Fi 6 enabled router delivering seamless connectivity to all your devices.
+                      Next-gen Wi-Fi 6 router providing flawless connectivity across all your devices simultaneously.
                     </p>
                   </div>
                   <div className="space-y-4">
@@ -547,10 +546,10 @@ const Home = () => {
                 {/* Main quote */}
                 <blockquote className="space-y-6 text-center">
                   <p className="text-3xl md:text-4xl text-white font-bold leading-relaxed">
-                    Limitless Net transformed my home business. The speed and reliability are unmatched - I can&apos;t imagine working with anything less.
+                    Hyper Speed Net revolutionized my home business. The blazing speed and unwavering reliability are simply unbeatable - I could never go back to anything less.
                   </p>
                   <p className="text-xl text-pale-yellow/80 leading-relaxed">
-                    From video conferences to large file transfers, everything just works. The installation was seamless, and their support team is always there when I need them. My productivity has increased by 40% since switching!
+                    From high-definition video conferences to massive file transfers, everything operates flawlessly. The professional installation was quick and hassle-free, and their expert support team is always available when I need assistance. My productivity has skyrocketed by 40% since making the switch!
                   </p>
                 </blockquote>
 
@@ -714,10 +713,10 @@ const Home = () => {
         <div className="container mx-auto relative z-10">
           <div className="text-center mb-16 animate-fade-in">
             <h2 className="text-5xl md:text-6xl font-black text-white mb-6">
-              Why Choose <span className="bg-gradient-to-r from-lime-yellow to-pale-yellow bg-clip-text text-transparent">LimitlessNet</span>?
+              Why Choose <span className="bg-gradient-to-r from-lime-yellow to-pale-yellow bg-clip-text text-transparent">Hyper Speed Net</span>?
             </h2>
             <p className="text-xl text-pale-yellow/70 max-w-2xl mx-auto">
-              Experience the difference with our next-generation fiber network
+              Discover the difference with our cutting-edge fiber network technology
             </p>
           </div>
 
@@ -730,9 +729,9 @@ const Home = () => {
                   <div className="w-20 h-20 bg-forest-green rounded-3xl flex items-center justify-center mb-6 animate-pulse">
                     <Zap className="text-lime-yellow" size={40} />
                   </div>
-                  <h3 className="text-4xl font-black text-forest-green mb-6">Lightning Fast Speeds</h3>
+                  <h3 className="text-4xl font-black text-forest-green mb-6">Hyper-Speed Performance</h3>
                   <p className="text-forest-green/80 text-lg leading-relaxed mb-8">
-                    Experience blazing-fast internet up to 1Gbps. Stream 4K content on multiple devices, game with zero lag, and upload files in seconds. Our fiber-optic technology ensures consistent speeds 24/7.
+                    Experience mind-blowing internet speeds up to 1Gbps. Stream stunning 4K content on multiple devices simultaneously, dominate online gaming with zero lag, and upload large files in mere seconds. Our advanced fiber-optic technology guarantees consistent peak speeds around the clock.
                   </p>
                 </div>
                 <div className="flex items-center gap-4">
@@ -749,9 +748,9 @@ const Home = () => {
               <div className="w-16 h-16 bg-lime-yellow/20 rounded-2xl flex items-center justify-center mb-6">
                 <Shield className="text-lime-yellow" size={32} />
               </div>
-              <h3 className="text-2xl font-bold text-white mb-4">Enterprise Security</h3>
+              <h3 className="text-2xl font-bold text-white mb-4">Military-Grade Security</h3>
               <p className="text-pale-yellow/70 leading-relaxed">
-                Bank-level encryption and advanced threat protection keep your data safe.
+                Bank-level encryption and cutting-edge threat protection safeguard your data 24/7.
               </p>
             </div>
 
@@ -773,9 +772,9 @@ const Home = () => {
                   <Wifi className="text-lime-yellow" size={32} />
                 </div>
                 <div>
-                  <h3 className="text-2xl font-bold text-white mb-4">Wi-Fi 6 Technology</h3>
+                  <h3 className="text-2xl font-bold text-white mb-4">Next-Gen Wi-Fi 6 Technology</h3>
                   <p className="text-pale-yellow/70 leading-relaxed">
-                    Latest generation routers included with every plan. Connect unlimited devices with faster speeds and better coverage throughout your entire home or office.
+                    Premium latest-generation routers included with every plan. Connect unlimited devices with lightning-fast speeds and superior coverage blanketing your entire home or office.
                   </p>
                 </div>
               </div>
@@ -800,28 +799,28 @@ const Home = () => {
         <div className="container mx-auto">
           <div className="text-center mb-16">
             <h2 className="text-4xl md:text-5xl font-bold text-pale-yellow mb-6 tracking-tight">
-              Beyond connectivity
+              Beyond traditional connectivity
               <br />
-              <span className="text-lime-yellow">as you know it</span>
+              <span className="text-lime-yellow">to a superior experience</span>
             </h2>
           </div>
           <div className="grid md:grid-cols-3 gap-8">
             <div className="bg-lime-yellow/10 backdrop-blur-sm border-2 border-lime-yellow/20 rounded-3xl p-8">
-              <h3 className="text-2xl font-bold text-lime-yellow mb-4">Smart Wi-Fi Controls</h3>
+              <h3 className="text-2xl font-bold text-lime-yellow mb-4">Intelligent Wi-Fi Management</h3>
               <p className="text-pale-yellow/70 leading-relaxed">
-                Manage your entire network from your phone. Prioritize devices, set parental controls, and monitor usage in real-time.
+                Control your entire network from your smartphone. Prioritize devices, configure advanced parental controls, and monitor real-time usage with our intuitive app.
               </p>
             </div>
             <div className="bg-lime-yellow/10 backdrop-blur-sm border-2 border-lime-yellow/20 rounded-3xl p-8">
-              <h3 className="text-2xl font-bold text-lime-yellow mb-4">Streaming-Optimized</h3>
+              <h3 className="text-2xl font-bold text-lime-yellow mb-4">Premium Streaming Experience</h3>
               <p className="text-pale-yellow/70 leading-relaxed">
-                Bandwidth designed for 4K streaming on multiple devices. No throttling, no buffering - just smooth entertainment.
+                Dedicated bandwidth engineered for flawless 4K and 8K streaming on multiple devices. Zero throttling, zero buffering - just crystal-clear entertainment.
               </p>
             </div>
             <div className="bg-lime-yellow/10 backdrop-blur-sm border-2 border-lime-yellow/20 rounded-3xl p-8">
-              <h3 className="text-2xl font-bold text-lime-yellow mb-4">Advanced Security</h3>
+              <h3 className="text-2xl font-bold text-lime-yellow mb-4">Proactive Security Shield</h3>
               <p className="text-pale-yellow/70 leading-relaxed">
-                Built-in protection against threats, automatic firmware updates, and encrypted connections for peace of mind.
+                Built-in multi-layer protection against cyber threats, automatic firmware updates, and military-grade encrypted connections for complete peace of mind.
               </p>
             </div>
           </div>
@@ -848,11 +847,11 @@ const Home = () => {
 
                 <h2 className="text-5xl md:text-6xl lg:text-7xl font-black text-forest-green leading-tight">
                   Ready to Experience
-                  <span className="block mt-2">True Speed?</span>
+                  <span className="block mt-2">Hyper Speed?</span>
                 </h2>
 
                 <p className="text-xl text-forest-green/70 leading-relaxed">
-                  Join thousands of satisfied customers enjoying lightning-fast fiber internet. Get connected in 24 hours or less.
+                  Join thousands of thrilled customers enjoying blazing-fast fiber internet. Get connected and experience the difference in 24 hours or less.
                 </p>
 
                 {/* Stats mini */}

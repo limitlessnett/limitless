@@ -13,7 +13,7 @@ const Navbar = () => {
           {/* Logo */}
           <Link to="/" className="flex items-center gap-2">
             <div className="text-3xl font-bold text-lime-yellow tracking-tighter">
-              Limitless Net
+              Hyper Speed Net
             </div>
           </Link>
 

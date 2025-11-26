@@ -7,7 +7,7 @@ const Pricing = () => {
       name: "Basic Fiber",
       speed: "300 Mbps",
       price: "$49",
-      description: "Perfect for browsing, streaming, and light usage",
+      description: "Ideal for everyday browsing, HD streaming, and moderate usage",
       features: [
         "300 Mbps download",
         "300 Mbps upload",
@@ -23,7 +23,7 @@ const Pricing = () => {
       name: "Standard Fiber + Cable",
       speed: "600 Mbps",
       price: "$79",
-      description: "Great for families with multiple devices",
+      description: "Perfect for families with multiple connected devices",
       features: [
         "600 Mbps download",
         "600 Mbps upload",
@@ -40,7 +40,7 @@ const Pricing = () => {
       name: "Ultra-Speed Gigabit",
       speed: "1 Gbps",
       price: "$99",
-      description: "Maximum speed for power users",
+      description: "Ultimate hyper-speed for demanding power users",
       features: [
         "1 Gbps download",
         "1 Gbps upload",
@@ -58,7 +58,7 @@ const Pricing = () => {
       name: "Business Pro",
       speed: "1 Gbps+",
       price: "$149",
-      description: "Enterprise-grade for businesses",
+      description: "Premium enterprise-grade solution for growing businesses",
       features: [
         "Up to 2 Gbps speeds",
         "Dedicated bandwidth",
@@ -155,7 +155,7 @@ const Pricing = () => {
               <p className="text-4xl font-bold text-pale-yellow mb-2">+$20</p>
               <p className="text-pale-yellow/70 mb-4">per month</p>
               <p className="text-pale-yellow/60 leading-relaxed">
-                HBO Max, Showtime, Starz, and more premium entertainment
+                HBO Max, Showtime, Starz, and exclusive premium entertainment channels
               </p>
             </div>
             <div className="bg-lime-yellow/10 backdrop-blur-sm border-2 border-lime-yellow/20 rounded-3xl p-8 text-center">

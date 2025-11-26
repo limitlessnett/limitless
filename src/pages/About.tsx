@@ -8,10 +8,10 @@ const About = () => {
       <section className="bg-forest-green pt-32 pb-24 px-6">
         <div className="container mx-auto text-center">
           <h1 className="text-5xl md:text-7xl font-bold text-pale-yellow mb-6 tracking-tighter">
-            About <span className="text-lime-yellow">FastFiber</span>
+            About <span className="text-lime-yellow">Hyper Speed Net</span>
           </h1>
           <p className="text-xl text-pale-yellow/80 max-w-3xl mx-auto leading-relaxed">
-            Connecting communities with ultra-fast, reliable fiber internet since 2015
+            Empowering communities with lightning-fast, rock-solid fiber internet since 2015
           </p>
         </div>
       </section>
@@ -25,10 +25,10 @@ const About = () => {
                 Our Mission
               </h2>
               <p className="text-xl text-foreground/70 leading-relaxed mb-6">
-                At FastFiber, we believe everyone deserves access to fast, reliable internet. We're building a fiber network that connects homes and businesses to the digital world without compromise.
+                At Hyper Speed Net, we're passionate about delivering exceptional internet access to everyone. We're building a cutting-edge fiber network that seamlessly connects homes and businesses to the digital world with uncompromising performance.
               </p>
               <p className="text-xl text-foreground/70 leading-relaxed">
-                Our commitment goes beyond just providing internet—we're creating infrastructure that powers innovation, enables remote work, and brings communities together.
+                Our commitment extends far beyond simply providing internet service—we're establishing the critical infrastructure that fuels innovation, empowers remote work, and strengthens community connections.
               </p>
             </div>
             <div className="grid grid-cols-2 gap-6">
@@ -69,25 +69,25 @@ const About = () => {
               <div>
                 <h3 className="text-2xl font-bold text-pale-yellow mb-2">Founded</h3>
                 <p className="text-pale-yellow/70 leading-relaxed">
-                  Started with a vision to bring fiber internet to underserved communities in our first city.
+                  Launched with an ambitious vision to deliver premium fiber internet to underserved communities in our inaugural city.
                 </p>
               </div>
             </div>
             <div className="flex gap-8">
               <div className="text-lime-yellow font-bold text-2xl min-w-[100px]">2017</div>
               <div>
-                <h3 className="text-2xl font-bold text-pale-yellow mb-2">Expansion</h3>
+                <h3 className="text-2xl font-bold text-pale-yellow mb-2">Rapid Growth</h3>
                 <p className="text-pale-yellow/70 leading-relaxed">
-                  Reached 10,000 customers and expanded to 5 additional cities across the region.
+                  Surpassed 10,000 satisfied customers and successfully expanded operations to 5 additional cities throughout the region.
                 </p>
               </div>
             </div>
             <div className="flex gap-8">
               <div className="text-lime-yellow font-bold text-2xl min-w-[100px]">2020</div>
               <div>
-                <h3 className="text-2xl font-bold text-pale-yellow mb-2">Innovation</h3>
+                <h3 className="text-2xl font-bold text-pale-yellow mb-2">Technological Leap</h3>
                 <p className="text-pale-yellow/70 leading-relaxed">
-                  Launched Wi-Fi 6 technology and smart home integration features during the remote work revolution.
+                  Pioneered Wi-Fi 6 technology deployment and advanced smart home integration features during the remote work revolution.
                 </p>
               </div>
             </div>
@@ -134,10 +134,10 @@ const About = () => {
       <section className="py-24 px-6 bg-forest-green">
         <div className="container mx-auto text-center">
           <h2 className="text-4xl md:text-5xl font-bold text-pale-yellow mb-6 tracking-tight">
-            Ready to experience the difference?
+            Ready to experience hyper speed?
           </h2>
           <p className="text-xl text-pale-yellow/70 mb-8 max-w-2xl mx-auto">
-            Join thousands of satisfied customers enjoying ultra-fast fiber internet
+            Join thousands of thrilled customers experiencing lightning-fast fiber internet
           </p>
           <a href="tel:888-809-0202">
             <Button className="bg-lime-yellow text-forest-green hover:bg-pale-yellow font-bold text-lg px-8 py-6">

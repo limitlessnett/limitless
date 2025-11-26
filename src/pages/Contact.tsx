@@ -114,7 +114,7 @@ const Contact = () => {
               Check <span className="text-lime-yellow">Coverage</span>
             </h2>
             <p className="text-base sm:text-xl text-pale-yellow/70 max-w-2xl mx-auto leading-relaxed">
-              Enter your address to see if Limitless Net is available in your area
+              Enter your address to discover if Hyper Speed Net is available in your area
             </p>
           </div>
           <div className="max-w-2xl mx-auto animate-scale-in" style={{animationDelay: '0.2s'}}>

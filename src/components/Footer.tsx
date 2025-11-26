@@ -8,10 +8,10 @@ const Footer = () => {
           {/* Brand */}
           <div className="animate-slide-in-left">
             <div className="text-3xl font-bold text-lime-yellow mb-4 tracking-tighter hover-glow transition-smooth">
-              Limitless Net
+              Hyper Speed Net
             </div>
             <p className="text-sm leading-relaxed opacity-80 mb-4">
-              Ultra-fast fiber internet and cable services built for modern connectivity needs.
+              Lightning-fast fiber internet and premium cable services delivering next-generation connectivity.
             </p>
             <a href="tel:888-809-0202" className="flex items-center gap-2 text-lime-yellow hover:text-pale-yellow transition-smooth font-bold hover-lift inline-flex">
               <svg className="w-5 h-5" fill="none" stroke="currentColor" viewBox="0 0 24 24">
@@ -106,7 +106,7 @@ const Footer = () => {
         {/* Bottom Bar */}
         <div className="border-t border-lime-yellow/20 pt-8 text-center">
           <p className="text-sm opacity-70 animate-fade-in">
-            © {new Date().getFullYear()} Limitless Net. All rights reserved.
+            © {new Date().getFullYear()} Hyper Speed Net. All rights reserved.
           </p>
         </div>
       </div>

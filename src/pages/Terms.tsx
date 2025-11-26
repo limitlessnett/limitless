@@ -19,14 +19,14 @@ const Terms = () => {
               <div>
                 <h2 className="text-3xl font-bold text-forest-green mb-4">Agreement to Terms</h2>
                 <p className="text-muted-foreground leading-relaxed">
-                  By accessing or using FastFiber services, you agree to be bound by these Terms and Conditions. If you disagree with any part of these terms, you may not access our services.
+                  By accessing or using Hyper Speed Net services, you agree to be bound by these Terms and Conditions. If you disagree with any part of these terms, you may not access our services.
                 </p>
               </div>
 
               <div>
                 <h2 className="text-3xl font-bold text-forest-green mb-4">Service Description</h2>
                 <p className="text-muted-foreground leading-relaxed">
-                  FastFiber provides high-speed internet, cable television, and related telecommunications services. Service availability, speeds, and features may vary by location and plan.
+                  Hyper Speed Net provides lightning-fast fiber internet, premium cable television, and related telecommunications services. Service availability, speeds, and features may vary by location and plan.
                 </p>
               </div>
 
@@ -65,7 +65,7 @@ const Terms = () => {
               <div>
                 <h2 className="text-3xl font-bold text-forest-green mb-4">Equipment</h2>
                 <p className="text-muted-foreground leading-relaxed">
-                  Equipment provided by FastFiber remains our property and must be returned upon service termination. You are responsible for any damage to or loss of equipment while in your possession.
+                  Equipment provided by Hyper Speed Net remains our property and must be returned upon service termination. You are responsible for any damage to or loss of equipment while in your possession.
                 </p>
               </div>
 
@@ -79,14 +79,14 @@ const Terms = () => {
               <div>
                 <h2 className="text-3xl font-bold text-forest-green mb-4">Limitation of Liability</h2>
                 <p className="text-muted-foreground leading-relaxed">
-                  FastFiber shall not be liable for indirect, incidental, special, or consequential damages arising from use or inability to use our services. Our total liability is limited to the amount paid for services in the preceding three months.
+                  Hyper Speed Net shall not be liable for indirect, incidental, special, or consequential damages arising from use or inability to use our services. Our total liability is limited to the amount paid for services in the preceding three months.
                 </p>
               </div>
 
               <div>
                 <h2 className="text-3xl font-bold text-forest-green mb-4">Contact Information</h2>
                 <p className="text-muted-foreground leading-relaxed">
-                  For questions about these Terms and Conditions, please contact us at legal@fastfiber.com or call 1-800-FASTFIBER.
+                  For questions about these Terms and Conditions, please contact us at legal@hyperspeednet.com or call (888) 809-0202.
                 </p>
               </div>
             </div>

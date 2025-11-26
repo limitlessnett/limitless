@@ -6,42 +6,42 @@ const Services = () => {
     {
       icon: Wifi,
       title: "Home Fiber Internet",
-      description: "Lightning-fast fiber-to-the-home connectivity with speeds up to 1 Gbps. Perfect for streaming, gaming, and remote work.",
+      description: "Blazing-fast fiber-to-the-home connectivity with speeds up to 1 Gbps. Engineered for seamless streaming, competitive gaming, and productive remote work.",
       features: ["Up to 1 Gbps speeds", "Unlimited data", "No contracts", "Free installation"],
       color: "bg-lime-yellow",
     },
     {
       icon: Building2,
       title: "Business Fiber",
-      description: "Enterprise-grade fiber internet designed for businesses. Symmetric upload/download speeds and priority support.",
+      description: "Enterprise-grade fiber internet engineered for demanding businesses. True symmetric upload/download speeds with dedicated priority support.",
       features: ["Dedicated bandwidth", "99.9% SLA uptime", "Static IP included", "24/7 business support"],
       color: "bg-secondary",
     },
     {
       icon: Tv,
-      title: "Cable TV Bundles",
-      description: "Combine your internet with premium cable TV packages. Over 200 channels including sports, movies, and entertainment.",
+      title: "Premium Cable TV Bundles",
+      description: "Bundle your internet with premium cable TV packages. Over 200 crystal-clear HD channels featuring sports, blockbuster movies, and premium entertainment.",
       features: ["200+ HD channels", "Sports packages", "On-demand content", "DVR included"],
       color: "bg-secondary",
     },
     {
       icon: Router,
-      title: "Wi-Fi 6 Systems",
-      description: "Advanced mesh Wi-Fi systems that eliminate dead zones. Whole-home coverage with the latest Wi-Fi 6 technology.",
+      title: "Next-Gen Wi-Fi 6 Systems",
+      description: "Advanced mesh Wi-Fi systems that completely eliminate dead zones. Comprehensive whole-home coverage powered by cutting-edge Wi-Fi 6 technology.",
       features: ["Mesh technology", "Parental controls", "Guest network", "Mobile app management"],
       color: "bg-lime-yellow",
     },
     {
       icon: Wrench,
-      title: "Professional Installation",
-      description: "Expert installation and setup by certified technicians. We handle everything from wiring to router configuration.",
+      title: "Expert Professional Installation",
+      description: "Precision installation and setup by certified expert technicians. We handle everything from professional wiring to complete router configuration.",
       features: ["Same-day installation", "Network optimization", "Device setup help", "Quality guarantee"],
       color: "bg-secondary",
     },
     {
       icon: Headphones,
-      title: "24/7 Support",
-      description: "Round-the-clock technical support from real people who care. Get help whenever you need it, day or night.",
+      title: "24/7 Expert Support",
+      description: "Round-the-clock technical support from real people who genuinely care. Get expert assistance whenever you need it, any time of day or night.",
       features: ["Live chat support", "Phone support", "Remote diagnostics", "On-site service"],
       color: "bg-lime-yellow",
     },
@@ -56,7 +56,7 @@ const Services = () => {
             Our <span className="text-lime-yellow">Services</span>
           </h1>
           <p className="text-xl text-pale-yellow/80 max-w-3xl mx-auto leading-relaxed">
-            Complete connectivity solutions for homes and businesses
+            Comprehensive connectivity solutions engineered for homes and businesses
           </p>
         </div>
       </section>
@@ -104,7 +104,7 @@ const Services = () => {
               Check Our <span className="text-lime-yellow">Coverage</span>
             </h2>
             <p className="text-xl text-pale-yellow/70 max-w-2xl mx-auto leading-relaxed">
-              We're expanding every day. Enter your address to see if FastFiber is available in your area.
+              We're rapidly expanding every day. Enter your address to discover if Hyper Speed Net is available in your area.
             </p>
           </div>
           <div className="max-w-2xl mx-auto">
@@ -128,16 +128,16 @@ const Services = () => {
       <section className="py-24 px-6 bg-background">
         <div className="container mx-auto">
           <h2 className="text-4xl md:text-5xl font-bold text-center text-forest-green mb-16 tracking-tight">
-            Why Choose FastFiber?
+            Why Choose Hyper Speed Net?
           </h2>
           <div className="grid md:grid-cols-3 gap-8">
             <div className="text-center">
               <div className="w-20 h-20 bg-lime-yellow rounded-full flex items-center justify-center mx-auto mb-6">
                 <span className="text-4xl font-bold text-forest-green">1</span>
               </div>
-              <h3 className="text-2xl font-bold text-forest-green mb-4">Fastest Speeds</h3>
+              <h3 className="text-2xl font-bold text-forest-green mb-4">Hyper-Speed Performance</h3>
               <p className="text-muted-foreground leading-relaxed">
-                Fiber-optic technology delivering symmetrical gigabit speeds with no throttling or data caps.
+                Advanced fiber-optic technology delivering true symmetrical gigabit speeds with zero throttling and unlimited data.
               </p>
             </div>
             <div className="text-center">

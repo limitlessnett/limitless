@@ -47,7 +47,7 @@ const Contact = () => {
                   />
                 </div>
                 <div className="animate-slide-up" style={{animationDelay: '0.4s'}}>
-                  <a href="tel:888-809-0202">
+                  <a href="tel:888-460-8802">
                     <Button className="w-full bg-forest-green text-lime-yellow hover:bg-dark-green font-bold text-lg py-6 transition-smooth hover-lift hover-glow">
                       Send Message
                     </Button>
@@ -66,8 +66,8 @@ const Contact = () => {
                   </div>
                   <div>
                     <h3 className="text-xl font-bold text-forest-green mb-2">Phone</h3>
-                    <a href="tel:888-809-0202" className="text-muted-foreground hover:text-lime-yellow transition-smooth text-lg font-semibold block">
-                      (888) 809-0202
+                    <a href="tel:888-460-8802" className="text-muted-foreground hover:text-lime-yellow transition-smooth text-lg font-semibold block">
+                      (888) 460-8802
                     </a>
                     <p className="text-sm text-muted-foreground mt-1">Call us anytime!</p>
                   </div>
@@ -88,10 +88,10 @@ const Contact = () => {
                 <div className="mt-12 p-8 bg-gradient-to-br from-forest-green to-dark-green rounded-3xl animate-scale-in" style={{animationDelay: '0.3s'}}>
                   <h3 className="text-2xl font-bold text-lime-yellow mb-4">Ready to Get Started?</h3>
                   <p className="text-pale-yellow/80 mb-6">Call us now and speak with our team to find the perfect plan for you.</p>
-                  <a href="tel:888-809-0202">
+                  <a href="tel:888-460-8802">
                     <Button className="w-full bg-lime-yellow text-forest-green hover:bg-pale-yellow font-bold text-lg py-6 transition-smooth hover-lift hover-glow">
                       <Phone className="mr-2" size={20} />
-                      Call (888) 809-0202
+                      Call (888) 460-8802
                     </Button>
                   </a>
                 </div>
@@ -124,7 +124,7 @@ const Contact = () => {
                 placeholder="Enter your address"
                 className="flex-1 bg-forest-green border-2 border-lime-yellow/20 text-pale-yellow placeholder:text-pale-yellow/40 focus:border-lime-yellow transition-smooth hover-lift py-6 text-base sm:text-lg"
               />
-              <a href="tel:888-809-0202" className="w-full sm:w-auto">
+              <a href="tel:888-460-8802" className="w-full sm:w-auto">
                 <Button className="w-full bg-lime-yellow text-forest-green hover:bg-pale-yellow font-bold px-8 py-6 text-lg transition-smooth hover-lift hover-glow">
                   Call Now
                 </Button>

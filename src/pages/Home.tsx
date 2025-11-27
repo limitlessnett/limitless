@@ -75,7 +75,7 @@ const Home = () => {
 
               {/* CTA buttons */}
               <div className="flex flex-wrap gap-4 pt-4 animate-fade-in" style={{animationDelay: '0.4s'}}>
-                <a href="tel:888-809-0202">
+                <a href="tel:888-460-8802">
                   <Button className="group bg-lime-yellow text-forest-green hover:bg-pale-yellow font-bold text-lg px-8 py-7 rounded-2xl shadow-2xl hover:shadow-lime-yellow/20 transition-all duration-300 hover:scale-105">
                     Get Started Today
                     <svg className="w-5 h-5 ml-2 group-hover:translate-x-1 transition-transform" fill="none" stroke="currentColor" viewBox="0 0 24 24">
@@ -83,7 +83,7 @@ const Home = () => {
                     </svg>
                   </Button>
                 </a>
-                <a href="tel:888-809-0202">
+                <a href="tel:888-460-8802">
                   <Button variant="outline" className="border-2 border-pale-yellow/30 bg-white/5 backdrop-blur-sm text-white hover:bg-white/10 hover:border-pale-yellow font-bold text-lg px-8 py-7 rounded-2xl transition-all duration-300">
                     Learn More
                   </Button>
@@ -298,9 +298,9 @@ const Home = () => {
           <p className="text-xl text-pale-yellow/70 max-w-3xl mx-auto mb-12 leading-relaxed">
             We deliver enterprise-grade fiber-to-the-home connectivity that powers modern life. From smart home ecosystems to crystal-clear 4K streaming, competitive gaming, and seamless remote work - our next-generation infrastructure supports it all with exceptional speed and rock-solid reliability.
           </p>
-          <a href="tel:888-809-0202">
+          <a href="tel:888-460-8802">
             <Button className="bg-lime-yellow text-forest-green hover:bg-pale-yellow font-bold text-lg px-8 py-6">
-              Call (888) 809-0202
+              Call (888) 460-8802
             </Button>
           </a>
         </div>
@@ -595,7 +595,7 @@ const Home = () => {
 
                 {/* CTA */}
                 <div className="flex justify-center pt-6">
-                  <a href="tel:888-809-0202">
+                  <a href="tel:888-460-8802">
                     <Button className="bg-lime-yellow text-forest-green hover:bg-pale-yellow font-bold text-lg px-10 py-7 rounded-2xl shadow-2xl hover:shadow-lime-yellow/30 transition-all duration-300 hover:scale-105">
                       Get Started Like Sarah
                       <svg className="w-5 h-5 ml-2" fill="none" stroke="currentColor" viewBox="0 0 24 24">
@@ -872,9 +872,9 @@ const Home = () => {
 
                 {/* CTA buttons */}
                 <div className="flex flex-wrap gap-4">
-                  <a href="tel:888-809-0202">
+                  <a href="tel:888-460-8802">
                     <Button className="group bg-forest-green text-lime-yellow hover:bg-dark-green font-bold text-lg px-10 py-7 rounded-2xl shadow-2xl hover:shadow-forest-green/30 transition-all duration-300 hover:scale-105">
-                      Call Now: 888-809-0202
+                      Call Now: (888) 460-8802
                       <svg className="w-5 h-5 ml-2 group-hover:rotate-12 transition-transform" fill="none" stroke="currentColor" viewBox="0 0 24 24">
                         <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2.5} d="M3 5a2 2 0 012-2h3.28a1 1 0 01.948.684l1.498 4.493a1 1 0 01-.502 1.21l-2.257 1.13a11.042 11.042 0 005.516 5.516l1.13-2.257a1 1 0 011.21-.502l4.493 1.498a1 1 0 01.684.949V19a2 2 0 01-2 2h-1C9.716 21 3 14.284 3 6V5z" />
                       </svg>

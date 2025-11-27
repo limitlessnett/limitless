@@ -120,9 +120,9 @@ const Pricing = () => {
                       <Check className="mr-2 flex-shrink-0 mt-1" size={20} />
                       <span>{feature}</span>
                     </li>
-                  ))}
+                  ))}>
                 </ul>
-                <a href="tel:888-809-0202">
+                <a href="tel:888-460-8802">
                   <Button
                     variant={plan.highlighted ? "default" : "outline"}
                     className={`w-full font-bold ${
@@ -222,12 +222,12 @@ const Pricing = () => {
             Our team is here to help you find the perfect plan
           </p>
           <div className="flex flex-wrap justify-center gap-4">
-            <a href="tel:888-809-0202">
+            <a href="tel:888-460-8802">
               <Button className="bg-lime-yellow text-forest-green hover:bg-pale-yellow font-bold text-lg px-8 py-6">
-                Call (888) 809-0202
+                Call (888) 460-8802
               </Button>
             </a>
-            <a href="tel:888-809-0202">
+            <a href="tel:888-460-8802">
               <Button variant="outline" className="border-2 border-lime-yellow text-lime-yellow hover:bg-lime-yellow hover:text-forest-green font-bold text-lg px-8 py-6">
                 Call Now
               </Button>

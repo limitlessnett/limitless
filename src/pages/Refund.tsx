@@ -56,7 +56,7 @@ const Refund = () => {
                   To request a refund under our 30-day guarantee:
                 </p>
                 <ol className="list-decimal pl-6 space-y-2 text-muted-foreground">
-                  <li>Contact our customer service at (888) 809-0202 or support@hyperspeednet.com</li>
+                  <li>Contact our customer service at (888) 460-8802 or support@hyperspeednet.com</li>
                   <li>Provide your account number and reason for cancellation</li>
                   <li>Return all equipment within 14 days of cancellation</li>
                   <li>Refund will be processed to your original payment method within 7-10 business days</li>
@@ -94,7 +94,7 @@ const Refund = () => {
               <div>
                 <h2 className="text-3xl font-bold text-forest-green mb-4">Questions?</h2>
                 <p className="text-muted-foreground leading-relaxed">
-                  If you have questions about our refund policy, please contact our customer service team at support@hyperspeednet.com or call (888) 809-0202.
+                  If you have questions about our refund policy, please contact our customer service team at support@hyperspeednet.com or call (888) 460-8802.
                 </p>
               </div>
             </div>

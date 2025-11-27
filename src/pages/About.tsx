@@ -139,9 +139,9 @@ const About = () => {
           <p className="text-xl text-pale-yellow/70 mb-8 max-w-2xl mx-auto">
             Join thousands of thrilled customers experiencing lightning-fast fiber internet
           </p>
-          <a href="tel:888-809-0202">
+          <a href="tel:888-460-8802">
             <Button className="bg-lime-yellow text-forest-green hover:bg-pale-yellow font-bold text-lg px-8 py-6">
-              Call (888) 809-0202
+              Call (888) 460-8802
             </Button>
           </a>
         </div>

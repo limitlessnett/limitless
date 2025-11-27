@@ -83,7 +83,7 @@ const Privacy = () => {
               <div>
                 <h2 className="text-3xl font-bold text-forest-green mb-4">Contact Us</h2>
                 <p className="text-muted-foreground leading-relaxed">
-                  If you have questions about this Privacy Policy, please contact us at privacy@hyperspeednet.com or call (888) 809-0202.
+                  If you have questions about this Privacy Policy, please contact us at privacy@hyperspeednet.com or call (888) 460-8802.
                 </p>
               </div>
             </div>

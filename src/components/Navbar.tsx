@@ -35,9 +35,9 @@ const Navbar = () => {
 
           {/* CTA Button - Right */}
           <div className="hidden md:block">
-            <a href="tel:888-809-0202">
+            <a href="tel:888-460-8802">
               <Button variant="default" className="bg-lime-yellow text-forest-green hover:bg-pale-yellow font-bold">
-                (888) 809-0202
+                (888) 460-8802
               </Button>
             </a>
           </div>
@@ -83,9 +83,9 @@ const Navbar = () => {
               >
                 Contact
               </Link>
-              <a href="tel:888-809-0202" className="w-full">
+              <a href="tel:888-460-8802" className="w-full">
                 <Button variant="default" className="bg-lime-yellow text-forest-green hover:bg-pale-yellow font-bold w-full">
-                  (888) 809-0202
+                  (888) 460-8802
                 </Button>
               </a>
             </div>

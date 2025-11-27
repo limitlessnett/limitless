@@ -84,7 +84,7 @@ const Services = () => {
                       </li>
                     ))}
                   </ul>
-                  <a href="tel:888-809-0202">
+                  <a href="tel:888-460-8802">
                     <Button variant="outline" className="w-full border-2 border-forest-green text-forest-green hover:bg-forest-green hover:text-lime-yellow font-bold">
                       Call Now
                     </Button>
@@ -114,7 +114,7 @@ const Services = () => {
                 placeholder="Enter your address"
                 className="flex-1 px-6 py-4 rounded-2xl bg-forest-green border-2 border-lime-yellow/20 text-pale-yellow placeholder:text-pale-yellow/40 focus:outline-none focus:border-lime-yellow"
               />
-              <a href="tel:888-809-0202">
+              <a href="tel:888-460-8802">
                 <Button className="bg-lime-yellow text-forest-green hover:bg-pale-yellow font-bold px-8">
                   Call Now
                 </Button>
@@ -171,9 +171,9 @@ const Services = () => {
           <p className="text-xl text-pale-yellow/70 mb-8 max-w-2xl mx-auto">
             Choose a plan that fits your needs and get connected today
           </p>
-          <a href="tel:888-809-0202">
+          <a href="tel:888-460-8802">
             <Button className="bg-lime-yellow text-forest-green hover:bg-pale-yellow font-bold text-lg px-8 py-6">
-              Call (888) 809-0202
+              Call (888) 460-8802
             </Button>
           </a>
         </div>

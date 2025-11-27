@@ -120,7 +120,7 @@ const Pricing = () => {
                       <Check className="mr-2 flex-shrink-0 mt-1" size={20} />
                       <span>{feature}</span>
                     </li>
-                  ))}>
+                  ))}
                 </ul>
                 <a href="tel:888-460-8802">
                   <Button
